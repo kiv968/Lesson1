@@ -1,3 +1,2 @@
-while True:
-    print('Привет, мир')
-
+name='Ирина'
+print(name)
