@@ -1,1 +1,11 @@
-*.рус
+settings.py
+*.log
+2.py
+уровень1.py
+dictionary.py
+hello.py
+info.py
+list.py
+price.py
+proba1.py
+proba2.py
